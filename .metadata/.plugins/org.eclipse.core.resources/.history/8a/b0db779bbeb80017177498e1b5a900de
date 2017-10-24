@@ -1,0 +1,5 @@
+package com.bridgeit.restController.configuration;
+
+public class HelloWorldInitializer {
+
+}

@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Oct 24 19:59:42 IST 2017
+org.eclipse.jst.j2ee.server\:/binary\:/home/bridgelabz/.m2/repository/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar=WEB-INF/lib/spring-web-4.3.10.RELEASE.jar
+org.eclipse.jst.j2ee.server\:/binary\:/home/bridgelabz/.m2/repository/org/springframework/spring-web/4.3.11.RELEASE/spring-web-4.3.11.RELEASE.jar=WEB-INF/lib/spring-web-4.3.11.RELEASE.jar

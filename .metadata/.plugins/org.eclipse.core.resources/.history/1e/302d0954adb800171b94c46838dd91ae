@@ -1,0 +1,5 @@
+package com.bridgeit.springmvc.model;
+
+public class Student {
+
+}

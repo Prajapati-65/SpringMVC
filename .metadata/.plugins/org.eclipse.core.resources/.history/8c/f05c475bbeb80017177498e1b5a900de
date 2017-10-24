@@ -1,0 +1,5 @@
+package com.bridgeit.restController.controller;
+
+public class HelloRestController {
+
+}

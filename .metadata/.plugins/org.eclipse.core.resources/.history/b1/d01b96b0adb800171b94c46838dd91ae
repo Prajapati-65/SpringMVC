@@ -1,0 +1,5 @@
+package com.bridgeit.springmvc.controller;
+
+public class HelloController {
+
+}
