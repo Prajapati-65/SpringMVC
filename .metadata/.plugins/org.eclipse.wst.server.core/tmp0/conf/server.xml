@@ -124,7 +124,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="/home/bridgelabz/SpringMVC/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ROOT" path="" reloadable="false"/><Context docBase="/home/bridgelabz/SpringMVC/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/SpringmvcRestService" path="/Spring4MVCHelloWorldRestServiceDemo" reloadable="true" source="org.eclipse.jst.j2ee.server:SpringmvcRestService"/><Context docBase="/home/bridgelabz/SpringMVC/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ValidationAndResourceHandling" path="/ValidationAndResourceHandling" reloadable="true" source="org.eclipse.jst.j2ee.server:ValidationAndResourceHandling"/></Host>
+      <Context docBase="/home/bridgelabz/SpringMVC/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ROOT" path="" reloadable="false"/><Context docBase="/home/bridgelabz/SpringMVC/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/SpringmvcRestService" path="/Spring4MVCHelloWorldRestServiceDemo" reloadable="true" source="org.eclipse.jst.j2ee.server:SpringmvcRestService"/></Host>
     </Engine>
   </Service>
 </Server>

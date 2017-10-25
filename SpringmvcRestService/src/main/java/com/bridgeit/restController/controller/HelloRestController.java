@@ -17,7 +17,7 @@ public class HelloRestController {
     }
  
     @RequestMapping("/hello/{player}")
-    public Message message(@PathVariable String player) {
+    public Message message(@PathVariable("player") String player) {
         Message msg = new Message(player, "Hello " + player);
         return msg;
     }
