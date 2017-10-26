@@ -37,7 +37,7 @@ public class StudentController {
 
 	}
 
-	@RequestMapping(value = "/students/{id}", method = RequestMethod.PUT)
+	@RequestMapping(value = "/updatestudent/{id}", method = RequestMethod.PUT)
 	public ResponseEntity updateStudent(@PathVariable("id") int studId, @RequestBody Student student) {
 
 		student = StudentDaoImplementation.updateStudent(studId, student);
@@ -48,7 +48,7 @@ public class StudentController {
 		return new ResponseEntity(" customer found at id:" + studId, HttpStatus.OK);
 	}
 
-	@RequestMapping(value = "/students", method = RequestMethod.POST)
+	@RequestMapping(value = "/poststudent", method = RequestMethod.POST)
 	public ResponseEntity<Boolean> postStudent(@RequestBody Student student) {
 		
 		StudentDaoImplementation.postStudent(student);
@@ -59,7 +59,7 @@ public class StudentController {
 		return new ResponseEntity<Boolean>(true, httpHeaders, HttpStatus.CREATED);
 	}
 
-	@RequestMapping(value = "/students/{id}", method = RequestMethod.DELETE)
+	@RequestMapping(value = "/deletestudent/{id}", method = RequestMethod.DELETE)
 	public ResponseEntity deleteStudent(@PathVariable("id") int studId) {
 
 		int id = (int) StudentDaoImplementation.deleteStudent(studId);

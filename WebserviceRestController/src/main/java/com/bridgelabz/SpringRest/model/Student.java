@@ -1,11 +1,9 @@
 package com.bridgelabz.SpringRest.model;
 
 public class Student {
-	
+
 	private int id;
-
 	private String name;
-
 	private String hobby;
 
 	public Student(int id, String name, String hobby) {
