@@ -6473,3 +6473,270 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected ST
 2017-10-25 19:33:13,118 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2017-10-25 19:33:13,119 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2017-10-25 19:33:13,120 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/SpringmvcRestService/src/test/resources
+2017-10-26 09:10:56,541 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:10:56,624 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:10:56,628 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:10:56,628 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/SpringmvcRestService/src/test/resources
+2017-10-26 09:11:21,014 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bridgeit:FirstSpringmvcUsingAnnotation:0.0.1-SNAPSHOT @ /home/bridgelabz/SpringMVC/FirstSpringmvcUsingAnnotation/pom.xml.
+2017-10-26 09:11:22,309 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:11:22,310 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:11:22,311 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:11:22,312 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/FirstSpringmvcUsingAnnotation/src/test/resources
+2017-10-26 09:11:51,195 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-10-26 09:11:51,532 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bridgeit:FirstSpringmvcUsingAnnotation:0.0.1-SNAPSHOT @ /home/bridgelabz/SpringMVC/FirstSpringmvcUsingAnnotation/pom.xml.
+2017-10-26 09:11:51,843 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FirstSpringmvcUsingAnnotation/src/main/java
+2017-10-26 09:11:51,843 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FirstSpringmvcUsingAnnotation/src/main/resources
+2017-10-26 09:11:51,843 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FirstSpringmvcUsingAnnotation/src/test/java
+2017-10-26 09:11:53,673 [Worker-6] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for FirstSpringmvcUsingAnnotation
+2017-10-26 09:11:53,675 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2017-10-26 09:11:54,073 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:11:54,075 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:11:54,076 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:11:54,077 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/FirstSpringmvcUsingAnnotation/src/test/resources
+2017-10-26 09:11:54,077 [Worker-14] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of FirstSpringmvcUsingAnnotation
+2017-10-26 09:11:54,078 [Worker-14] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for FirstSpringmvcUsingAnnotation
+2017-10-26 09:11:54,082 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:13:24,264 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bridgeit:SpringmvcRestWebServiceCRUD:0.0.1-SNAPSHOT @ /home/bridgelabz/SpringMVC/SpringmvcRestWebServiceCRUD/pom.xml.
+2017-10-26 09:13:25,564 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:13:25,564 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:13:25,566 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:13:25,566 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/SpringmvcRestWebServiceCRUD/src/test/resources
+2017-10-26 09:13:26,378 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bridgeit:Student:0.0.1-SNAPSHOT @ /home/bridgelabz/SpringMVC/Student/pom.xml.
+2017-10-26 09:13:26,736 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:13:26,737 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:13:26,738 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:13:26,738 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/Student/src/test/resources
+2017-10-26 09:13:28,531 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bridgeit:WebserviceRestController:0.0.1-SNAPSHOT @ /home/bridgelabz/SpringMVC/WebserviceRestController/pom.xml.
+2017-10-26 09:13:29,487 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:13:29,490 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:13:29,493 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:13:29,494 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/WebserviceRestController/src/test/resources
+2017-10-26 09:14:29,960 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:14:29,981 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:14:29,982 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:14:29,983 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/Student/src/test/resources
+2017-10-26 09:14:36,939 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:14:36,940 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:14:36,941 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:14:36,941 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/Student/src/test/resources
+2017-10-26 09:15:00,950 [Worker-15] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for FirstSpringmvcUsingAnnotation
+2017-10-26 09:15:00,959 [Worker-15] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringmvcRestService
+2017-10-26 09:15:01,028 [Worker-15] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringmvcRestWebServiceCRUD
+2017-10-26 09:15:01,034 [Worker-15] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Student
+2017-10-26 09:15:01,051 [Worker-15] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for WebserviceRestController
+2017-10-26 09:15:01,212 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:15:01,213 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:15:01,214 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:15:01,214 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/FirstSpringmvcUsingAnnotation/src/test/resources
+2017-10-26 09:15:01,215 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of FirstSpringmvcUsingAnnotation
+2017-10-26 09:15:01,221 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for FirstSpringmvcUsingAnnotation
+2017-10-26 09:15:01,242 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:15:01,415 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:15:01,415 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:15:01,416 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:15:01,416 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/SpringmvcRestService/src/test/resources
+2017-10-26 09:15:01,417 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringmvcRestService
+2017-10-26 09:15:01,417 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringmvcRestService
+2017-10-26 09:15:01,420 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:15:01,589 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:15:01,589 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:15:01,590 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:15:01,590 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/SpringmvcRestWebServiceCRUD/src/test/resources
+2017-10-26 09:15:01,590 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringmvcRestWebServiceCRUD
+2017-10-26 09:15:01,591 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringmvcRestWebServiceCRUD
+2017-10-26 09:15:01,593 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:15:01,632 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:15:01,633 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:15:01,634 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:15:01,635 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/Student/src/test/resources
+2017-10-26 09:15:01,635 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Student
+2017-10-26 09:15:01,635 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Student
+2017-10-26 09:15:01,637 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:15:01,718 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:15:01,718 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:15:01,719 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:15:01,719 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/WebserviceRestController/src/test/resources
+2017-10-26 09:15:01,720 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebserviceRestController
+2017-10-26 09:15:01,720 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebserviceRestController
+2017-10-26 09:15:01,722 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:17:53,132 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:17:53,132 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:17:53,133 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:17:53,133 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/WebserviceRestController/src/test/resources
+2017-10-26 09:18:00,865 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:18:00,865 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:18:00,866 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:18:00,866 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/WebserviceRestController/src/test/resources
+2017-10-26 09:18:21,528 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:18:21,528 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:18:21,530 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:18:21,531 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/WebserviceRestController/src/test/resources
+2017-10-26 09:18:31,940 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:18:31,941 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:18:31,942 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:18:31,942 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/WebserviceRestController/src/test/resources
+2017-10-26 09:18:41,492 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:18:41,493 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:18:41,494 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:18:41,494 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/WebserviceRestController/src/test/resources
+2017-10-26 09:19:16,199 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:19:16,200 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:19:16,202 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:19:16,203 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/WebserviceRestController/src/test/resources
+2017-10-26 09:19:26,592 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:19:26,593 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:19:26,594 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:19:26,594 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/WebserviceRestController/src/test/resources
+2017-10-26 09:19:36,138 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:19:36,138 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:19:36,139 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:19:36,140 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/WebserviceRestController/src/test/resources
+2017-10-26 09:19:40,219 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:19:40,219 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:19:40,220 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:19:40,221 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/WebserviceRestController/src/test/resources
+2017-10-26 09:20:00,789 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:20:00,790 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:20:00,791 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:20:00,791 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/WebserviceRestController/src/test/resources
+2017-10-26 09:20:18,012 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:20:18,025 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:20:18,026 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:20:18,027 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/WebserviceRestController/src/test/resources
+2017-10-26 09:20:28,936 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:20:28,937 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:20:28,941 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:20:28,941 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/WebserviceRestController/src/test/resources
+2017-10-26 09:20:54,055 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:20:54,055 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:20:54,056 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:20:54,056 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/WebserviceRestController/src/test/resources
+2017-10-26 09:21:06,735 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:21:06,736 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:21:06,737 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:21:06,737 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/WebserviceRestController/src/test/resources
+2017-10-26 09:21:22,777 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:21:22,778 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:21:22,778 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:21:22,779 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/WebserviceRestController/src/test/resources
+2017-10-26 09:21:39,993 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:21:39,994 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:21:39,994 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:21:39,995 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/WebserviceRestController/src/test/resources
+2017-10-26 09:21:51,512 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:21:51,512 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:21:51,513 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:21:51,513 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/WebserviceRestController/src/test/resources
+2017-10-26 09:22:06,779 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bridgeit:HelloWorldAnnotation:0.0.1-SNAPSHOT @ /home/bridgelabz/SpringMVC/HelloWorldAnnotation/pom.xml.
+2017-10-26 09:22:07,830 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:22:07,831 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:22:07,831 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:22:07,832 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/HelloWorldAnnotation/src/test/resources
+2017-10-26 09:22:08,324 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bridgeit:HelloWorldUsingXML:0.0.1-SNAPSHOT @ /home/bridgelabz/SpringMVC/HelloWorldUsingXML/pom.xml.
+2017-10-26 09:22:09,090 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:22:09,091 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:22:09,092 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:22:09,092 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/HelloWorldUsingXML/src/test/resources
+2017-10-26 09:23:02,306 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:23:02,307 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:23:02,308 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:23:02,308 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/WebserviceRestController/src/test/resources
+2017-10-26 09:23:24,388 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-10-26 09:23:24,705 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bridgeit:WebserviceRestController:0.0.1-SNAPSHOT @ /home/bridgelabz/SpringMVC/WebserviceRestController/pom.xml.
+2017-10-26 09:23:24,814 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebserviceRestController/src/main/java
+2017-10-26 09:23:24,814 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /WebserviceRestController/src/main/resources
+2017-10-26 09:23:24,814 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebserviceRestController/src/test/java
+2017-10-26 09:23:25,997 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for WebserviceRestController
+2017-10-26 09:23:26,001 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-10-26 09:23:26,349 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:23:26,349 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:23:26,350 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:23:26,350 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/WebserviceRestController/src/test/resources
+2017-10-26 09:23:26,350 [Worker-9] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebserviceRestController
+2017-10-26 09:23:26,350 [Worker-9] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebserviceRestController
+2017-10-26 09:23:26,353 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:24:48,735 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:24:48,736 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:24:48,737 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:24:48,737 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/WebserviceRestController/src/test/resources
+2017-10-26 09:25:07,906 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:25:07,907 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:25:07,908 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:25:07,908 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/WebserviceRestController/src/test/resources
+2017-10-26 09:25:26,648 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:25:26,649 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:25:26,650 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:25:26,650 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/WebserviceRestController/src/test/resources
+2017-10-26 09:25:40,347 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:25:40,348 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:25:40,349 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:25:40,349 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/WebserviceRestController/src/test/resources
+2017-10-26 09:29:32,550 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:29:32,551 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:29:32,552 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:29:32,552 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/WebserviceRestController/src/test/resources
+2017-10-26 09:30:47,191 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:30:47,191 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:30:47,192 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:30:47,192 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/WebserviceRestController/src/test/resources
+2017-10-26 09:31:08,263 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for FirstSpringmvcUsingAnnotation
+2017-10-26 09:31:08,267 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for HelloWorldAnnotation
+2017-10-26 09:31:08,298 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for HelloWorldUsingXML
+2017-10-26 09:31:08,346 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringmvcRestService
+2017-10-26 09:31:08,382 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringmvcRestWebServiceCRUD
+2017-10-26 09:31:08,411 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Student
+2017-10-26 09:31:08,467 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for WebserviceRestController
+2017-10-26 09:31:08,730 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:31:08,731 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:31:08,732 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:31:08,733 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/FirstSpringmvcUsingAnnotation/src/test/resources
+2017-10-26 09:31:08,733 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of FirstSpringmvcUsingAnnotation
+2017-10-26 09:31:08,733 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for FirstSpringmvcUsingAnnotation
+2017-10-26 09:31:08,736 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:31:08,987 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:31:08,988 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:31:08,988 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:31:08,988 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/HelloWorldAnnotation/src/test/resources
+2017-10-26 09:31:08,989 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of HelloWorldAnnotation
+2017-10-26 09:31:08,989 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for HelloWorldAnnotation
+2017-10-26 09:31:08,991 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:31:09,100 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:31:09,100 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:31:09,101 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:31:09,101 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/HelloWorldUsingXML/src/test/resources
+2017-10-26 09:31:09,101 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of HelloWorldUsingXML
+2017-10-26 09:31:09,101 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for HelloWorldUsingXML
+2017-10-26 09:31:09,103 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:31:09,170 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:31:09,171 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:31:09,171 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:31:09,172 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/SpringmvcRestService/src/test/resources
+2017-10-26 09:31:09,172 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringmvcRestService
+2017-10-26 09:31:09,172 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringmvcRestService
+2017-10-26 09:31:09,174 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:31:09,627 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:31:09,627 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:31:09,628 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:31:09,629 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/SpringmvcRestWebServiceCRUD/src/test/resources
+2017-10-26 09:31:09,629 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringmvcRestWebServiceCRUD
+2017-10-26 09:31:09,629 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringmvcRestWebServiceCRUD
+2017-10-26 09:31:09,631 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:31:09,663 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:31:09,663 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:31:09,664 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:31:09,664 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/Student/src/test/resources
+2017-10-26 09:31:09,664 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Student
+2017-10-26 09:31:09,664 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Student
+2017-10-26 09:31:09,666 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:31:09,732 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:31:09,732 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:31:09,733 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:31:09,733 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/WebserviceRestController/src/test/resources
+2017-10-26 09:31:09,733 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebserviceRestController
+2017-10-26 09:31:09,733 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebserviceRestController
+2017-10-26 09:31:09,735 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:38:06,740 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bridgeit:Student:0.0.1-SNAPSHOT @ /home/bridgelabz/SpringMVC/Student/pom.xml.
+2017-10-26 09:38:07,247 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:38:07,248 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 09:38:07,248 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 09:38:07,249 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgelabz/SpringMVC/Student/src/test/resources

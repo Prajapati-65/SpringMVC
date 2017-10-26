@@ -9,6 +9,7 @@ public class Student {
 	private String hobby;
 
 	public Student(int id, String name, String hobby) {
+		super();
 		this.id = id;
 		this.name = name;
 		this.hobby = hobby;

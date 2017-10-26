@@ -11,13 +11,13 @@ public class StudentController {
 
 	@RequestMapping(value = "/admissionForm", method = RequestMethod.GET)
 	public ModelAndView getAdmissionForm() {
-		System.out.println("dskfghsd");
+		System.out.println("admission");
 		ModelAndView model = new ModelAndView("admissionForm");
 		return model;
 	}
 	@RequestMapping(value = "/submitAdmissionForm")
 	public ModelAndView submitAdmissionForm() {
-		System.out.println("dskfghsd");
+		System.out.println("submit");
 		ModelAndView model = new ModelAndView("submitAdmissionForm");
 		return model;
 	}

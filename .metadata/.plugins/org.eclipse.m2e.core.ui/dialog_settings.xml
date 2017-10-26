@@ -44,6 +44,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/home/bridgelabz/SpringMVC/SpringmvcRestService"/>
 			<item value="/home/bridgelabz/SpringMVC/ValidationAndResourceHandling"/>
 			<item value="/home/bridgelabz/SpringMVC/HelloWorldUsingXML"/>
 		</list>
@@ -58,6 +59,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.bridgeit.WebserviceRestController"/>
 			<item value="com.bridgeit.SpringmvcRestService"/>
 			<item value="com.bridgeit.HelloWorldAnnotation"/>
 			<item value="com.bridgeit.ValidationAndResourceHandling"/>
@@ -68,6 +70,7 @@
 			<item value="com.bridgeit"/>
 		</list>
 		<list key="artifactId">
+			<item value="WebserviceRestController"/>
 			<item value="SpringmvcRestService"/>
 			<item value="HelloWorldAnnotation"/>
 			<item value="ValidationAndResourceHandling "/>
