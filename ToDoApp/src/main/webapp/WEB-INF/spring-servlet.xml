@@ -9,7 +9,7 @@
       http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
 
 
-	<context:component-scan base-package="com.bridgeit.springrest" />
+	<context:component-scan base-package="com.bridgeit.springToDoApp" />
 
 	<mvc:annotation-driven />
 
@@ -18,7 +18,7 @@
 
 		<property name="driverClassName" value="com.mysql.jdbc.Driver" />
 
-		<property name="url" value="jdbc:mysql://localhost:3306/SpringHibernate" />
+		<property name="url" value="jdbc:mysql://localhost:3306/ToDoApp?createDatabaseIfNotExist=true" />
 
 		<property name="username" value="root" />
 
@@ -31,7 +31,7 @@
 
 		<property name="annotatedClasses">
 			<list>
-				<value>com.bridgeit.springrest.model.User</value>
+				<value>com.bridgeit.springToDoApp.model.User</value>
 			</list>
 		</property>
 
@@ -44,8 +44,9 @@
 		</property>
 	</bean>
 
-	<bean id="userDao" class="com.bridgeit.springrest.dao.UserDao" />
+	<bean id="userDao" class="com.bridgeit.springToDoApp.dao.UserDaoImpl" />
 
-	<bean id="userService" class="com.bridgeit.springrest.service.UserServiceImpl" />
+	<bean id="userService" class="com.bridgeit.springToDoApp.service.UserServiceImpl" />
+
 
 </beans>
