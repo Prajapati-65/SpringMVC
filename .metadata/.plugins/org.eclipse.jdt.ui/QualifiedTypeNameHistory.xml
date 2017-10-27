@@ -6,7 +6,22 @@
 <fullyQualifiedTypeName name="com.bridgeit.springmvc.model.Student"/>
 <fullyQualifiedTypeName name="com.bridgeit.restController.model.Message"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
-<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
 <fullyQualifiedTypeName name="com.bridgelabz.SpringRest.dao.StudentDao"/>
 <fullyQualifiedTypeName name="com.bridgelabz.SpringRest.model.Student"/>
+<fullyQualifiedTypeName name="com.bridgeit.springrest.dao.Dao"/>
+<fullyQualifiedTypeName name="com.bridgeit.springrest.service.UserService"/>
+<fullyQualifiedTypeName name="com.bridgeit.springrest.model.User"/>
+<fullyQualifiedTypeName name="javax.persistence.Column"/>
+<fullyQualifiedTypeName name="com.bridgeit.springToDoApp.service.UserServiceImpl"/>
+<fullyQualifiedTypeName name="com.bridgeit.springToDoApp.service.UserService"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.hibernate.Criteria"/>
+<fullyQualifiedTypeName name="org.hibernate.criterion.Restrictions"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="org.hibernate.criterion.LogicalExpression"/>
+<fullyQualifiedTypeName name="org.hibernate.criterion.Criterion"/>
+<fullyQualifiedTypeName name="com.bridgeit.springToDoApp.model.User"/>
+<fullyQualifiedTypeName name="com.bridgeit.springToDoApp.dao.UserDao"/>
 </qualifiedTypeNameHistroy>
